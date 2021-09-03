@@ -1,2 +1,3 @@
-# memo
-Just a study memo
+# memo  
+---
+a study memo
